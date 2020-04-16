@@ -20,10 +20,10 @@ pip install keras
 pip3 install imageAI
 
 ## Structure
-.|__ detection_test  
-.  |__ venv  
-.    |__ Include  
-.    |__ Lib  
-.    |__ Scripts  
-.    |__ apple.png  
-.    |__ resnet50_coco_best_v2.0.1.h5  
+.|_ detection_test  
+.    |_ venv  
+.        |_ Include  
+.        |_ Lib  
+.        |_ Scripts  
+.        |_ apple.png  
+.        |_ resnet50_coco_best_v2.0.1.h5  
