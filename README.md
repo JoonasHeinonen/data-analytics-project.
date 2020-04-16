@@ -18,3 +18,12 @@ pip install h5py
 pip install keras
 ## ix. ImageAI
 pip3 install imageAI
+
+## Structure
+|__ detection_test
+  |__ venv
+    |__ Include
+    |__ Lib
+    |__ Scripts
+    |__ apple.png
+    |__ resnet50_coco_best_v2.0.1.h5
