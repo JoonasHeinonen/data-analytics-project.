@@ -27,3 +27,4 @@ pip3 install imageAI
 .........|_ Scripts  
 .........|_ apple.png  
 .........|_ resnet50_coco_best_v2.0.1.h5  
+.........|_ objDetection.py
