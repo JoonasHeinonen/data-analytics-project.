@@ -21,9 +21,9 @@ pip3 install imageAI
 
 ## Structure
 .|_ detection_test  
-.    |_ venv  
-.        |_ Include  
-.        |_ Lib  
-.        |_ Scripts  
-.        |_ apple.png  
-.        |_ resnet50_coco_best_v2.0.1.h5  
+.....|_ venv  
+.........|_ Include  
+.........|_ Lib  
+.........|_ Scripts  
+.........|_ apple.png  
+.........|_ resnet50_coco_best_v2.0.1.h5  
